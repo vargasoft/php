@@ -1,2 +1,2 @@
-# php
+# PHP Scripts
 PHP based scripts
